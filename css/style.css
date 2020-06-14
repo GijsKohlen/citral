@@ -206,7 +206,7 @@ section#about{
 
 .imgwrap .gijs p{
     position: absolute;
-    transform: translate(25%, -127%);
+    transform: translate(25%, -25%);
     border-radius: 50%;
     background: #DEB574;
     color: #171717;
